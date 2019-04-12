@@ -1,6 +1,6 @@
 /*
  * @author Jacob William
- * @desc This program creates a pyramid in modern OpenGL using indices and vertices
+ * @desc This program creates a 3D Cube in modern OpenGL 
  *
  */
 
